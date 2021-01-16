@@ -8,5 +8,3 @@ Individual folders contain the MATLAB codes and the mtDNA deletion breakpoints d
 The analysis will require partition function values for the specific organism, which are available from the following link:
 
 https://buffalo.box.com/s/oipufvp3i9kv839j44tcv9oedpcfd5uc
-
-
