@@ -7,4 +7,4 @@ L.N. Lakshmanan, Z. Yee, J. Gruber, B. Halliwell, and R. Gunawan, Thermodynamic 
 Individual folders contain the MATLAB codes and the mtDNA deletion breakpoints data to produce the results reported in the manuscript above. 
 The analysis will require partition function values for the specific organism, which are available from the following link:
 
-https://buffalo.box.com/s/oipufvp3i9kv839j44tcv9oedpcfd5uc
+https://drive.google.com/drive/folders/1645jZE8NqNssGSwWB45TSEKi7ggBau1B?usp=sharing
